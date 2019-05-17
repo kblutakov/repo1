@@ -5,7 +5,7 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
-
+// modified for github
 #include <iostream>
 #define MAX 10
 using namespace std;
